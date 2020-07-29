@@ -12,7 +12,7 @@
 
 ****
 
-**Experienced Languanges & Tools**
+**Languanges & Tools**
 
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg"></code>
 <code><img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"></code>
