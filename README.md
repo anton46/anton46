@@ -1,5 +1,4 @@
 <div align="center">
-	
 <h3> Hi there, I am Anton 👋 </h3>
 <p>Welcome to my profile. Most of my public repo are all about Android.</p>
 	<a href="https://twitter.com/an_tuhadiansyah">
