@@ -35,4 +35,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br />
+<br />
+
 [![Anton's github stats](https://github-readme-stats.vercel.app/api?username=anton46)](https://github.com/anuraghazra/github-readme-stats)
